@@ -1,5 +1,3 @@
-different remote change
-
 # STAT 408 Spring 2022 Course Project
 
 [Project instructions](https://stat408-s22.github.io/projectinstructions.pdf)
